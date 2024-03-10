@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif">
 <h1 align="center">Hi 👋, I'm Vanga Nataraja Shanmukha Srinivas</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
